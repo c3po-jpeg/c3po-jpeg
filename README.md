@@ -1,6 +1,6 @@
 ## Hello there
 
-i like making cool things with 3D graphics! love working with systems languages.
+i like making cool things with 3D graphics and working with systems languages.</n>
 Currently playing around with the vulkan Api and game physics mechanics.
 Also learning a bit of real-time communication with webrtc on the side.
 
