@@ -5,7 +5,7 @@ i like making cool things with vulkan and 3D graphics!
 - I’m currently working on [phobos](https://github.com/c3po-jpeg/phobos)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c++,rust,vulkan,webgpu,js,html,css,react,webrtc)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,rust,vulkan,js,html,css,react)](https://skillicons.dev)
 <!--
 **VictorGakuo/VictorGakuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
