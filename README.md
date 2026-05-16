@@ -1,8 +1,10 @@
 ## Hello there
 
-i like making cool things with 3D graphics!
+i like making cool things with 3D graphics! love working with systems languages.
+Currently playing around with the vulkan Api and game physics mechanics.
+Also learning a bit of real-time communication with webrtc on the side.
 
-- I’m currently working on [phobos](https://github.com/c3po-jpeg/deimos)
+- I’m currently working on [deimos](https://github.com/c3po-jpeg/deimos)
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=cpp,cmake,rust,python,js,html,css,react)](https://skillicons.dev)
