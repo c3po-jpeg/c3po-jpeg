@@ -2,9 +2,10 @@
 
 i like making cool things with 3D graphics and working with systems languages.</n>
 Currently playing around with the vulkan Api and game physics mechanics.
-Also learning a bit of real-time communication with webrtc on the side.
+Also learning a bit of real-time communication with webrtc and websockets on the side.
 
 - I’m currently working on [deimos](https://github.com/c3po-jpeg/deimos)
+- check my page [here](https://victorgakuo.vercel.app)
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=cpp,cmake,rust,python,js,html,css,react)](https://skillicons.dev)
