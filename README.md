@@ -8,7 +8,7 @@ Also learning a bit of real-time communication with webrtc and websockets on the
 - check my page [here](https://victorgakuo.vercel.app)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,rust,python,js,html,css,react,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,rust,zig,python,js,html,css,react,docker)](https://skillicons.dev)
 <!--
 **VictorGakuo/VictorGakuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
